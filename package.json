@@ -1,0 +1,14 @@
+{
+  "name": "freshfold-laundry",
+  "version": "1.0.0",
+  "description": "FreshFold - Online laundry pickup & delivery management system (Customer, Rider, Admin)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "reset": "node server.js --reset"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
